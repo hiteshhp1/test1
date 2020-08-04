@@ -1,0 +1,5 @@
+Ved is learning git
+<<<<<<< HEAD
+=======
+i am a git novice!
+>>>>>>> test
